@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964177050024",
+    "project_id": "great-chat-2a544",
+    "storage_bucket": "great-chat-2a544.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964177050024:android:a3139738c91c7be440059d",
+        "android_client_info": {
+          "package_name": "br.com.mendonca.michel.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964177050024-81km5lhrdc1c6guujps045oom5jtmi6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1qxK7u1HbLWn229k8QgIiBkmWEUdrHFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964177050024-81km5lhrdc1c6guujps045oom5jtmi6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
